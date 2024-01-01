@@ -1,0 +1,4 @@
+title: $:/plugins/cube-c/heatmap/tree
+type: text/vnd.tiddlywiki
+
+<<tree prefix:"$:/plugins/cube-c/heatmap/">>

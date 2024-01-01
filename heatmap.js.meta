@@ -1,0 +1,6 @@
+caption: Heatmap macro
+description: This macro implements heatmap
+module-type: widget
+tags:
+title: $:/plugins/cube-c/heatmap/heatmap.js
+type: application/javascript
