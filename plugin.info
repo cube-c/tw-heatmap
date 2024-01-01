@@ -2,7 +2,7 @@
   "title": "$:/plugins/cube-c/heatmap",
   "name": "Heatmap",
   "author": "Jung Jaeyun",
-  "description": "Heatmap plugin",
+  "description": "Github style calendar heatmap plugin for tiddlywiki",
   "core-version": ">=5.3.3",
   "plugin-type": "plugin",
   "version": "0.1.0",
